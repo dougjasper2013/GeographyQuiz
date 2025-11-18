@@ -48,4 +48,5 @@ fun main() {
     }
 
     println("You got " + correct + " questions correct.")
+    readLine()
 }
